@@ -43,7 +43,7 @@ Welcome to GeoNetwork. This documentation is organized into specific guides targ
     
     ---
 
-    API Reference for developers accecssing catalogue services.
+    API Reference for developers accessing catalogue services.
     
 -   :fontawesome-regular-file-code:   [Development](devel/index.md)
     
